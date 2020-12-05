@@ -1,0 +1,22 @@
+{
+    "Success!": "Success!",
+    "Date": "Date",
+    "Cancel": "Cancel",
+    "Close": "Close",
+    "Ok": "Ok",
+    "Error": "Error",
+    "**": "**********************************************************************************************************************************",
+    "*": "******************************** ERROR MESSAGE DEFINE BELLOW THIS LINE ************************************************************",
+    "Sorry, there's an error occurred": "Sorry, there's an error occurred",
+    "Send timeout in connection with API server": "Send timeout in connection with API server",
+    "Request to API server was cancelled": "Request to API server was cancelled",
+    "Connection timeout with API server": "Connection timeout with API server",
+    "Connection to API server failed due to internet connection": "Connection to API server failed due to internet connection",
+    "Receive timeout in connection with API server": "Receive timeout in connection with API server",
+    "Our apologies for any inconveniences causes. Server is down for a scheduled maintenance.": "Our apologies for any inconveniences causes. Server is down for a scheduled maintenance.",
+    "Your account has been logged in from another device. Please log in again to continue.": "Your account has been logged in from another device. Please log in again to continue.",
+    "You have been timed out due to inactivity. Please log in again to continue.": "You have been timed out due to inactivity. Please log in again to continue.",
+    "A new version of the app has been released, please upgrade.": "A new version of the app has been released, please upgrade.",
+    "Your merchant has been deactivated.": "Your merchant has been deactivated.",
+    "No internet connection": "No internet connection"
+}
