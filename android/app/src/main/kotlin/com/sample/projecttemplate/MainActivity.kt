@@ -1,4 +1,4 @@
-package com.visikard.processorder
+package com.sample.projecttemplate
 
 import io.flutter.embedding.android.FlutterActivity
 
