@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1017976501595",
+    "firebase_url": "https://general-a5e2a.firebaseio.com",
+    "project_id": "general-a5e2a",
+    "storage_bucket": "general-a5e2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017976501595:android:261588ef8407ed4d18d67e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017976501595-8hd6vsv49kkle21qu27je795odau30f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhB1kJZCmOB0Ojv2Nfg2_AIg3T34hiRdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017976501595-8hd6vsv49kkle21qu27je795odau30f0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017976501595-8v8ijh1ejb969dp46jm08499k3ol9eei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.Gas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017976501595:android:89458bd0c1aa58d518d67e",
+        "android_client_info": {
+          "package_name": "com.sample.projecttemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017976501595-8hd6vsv49kkle21qu27je795odau30f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhB1kJZCmOB0Ojv2Nfg2_AIg3T34hiRdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017976501595-8hd6vsv49kkle21qu27je795odau30f0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017976501595-8v8ijh1ejb969dp46jm08499k3ol9eei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.Gas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
