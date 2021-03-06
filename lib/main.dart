@@ -18,4 +18,5 @@ void main() async {
   errors.initErrors();
   runApp(MyApp());
   // some comment
+  // more comment
 }
