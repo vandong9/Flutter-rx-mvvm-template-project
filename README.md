@@ -1,6 +1,8 @@
 # flutter_project_template
 Flutter Project Template
 
+# Run:
+flutter run --flavor DEV -t lib/main_DEV.dart
 
 # Convention
   - Follow https://dart.dev/guides/language/effective-dart/style
