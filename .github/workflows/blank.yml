@@ -22,14 +22,14 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Webhook
-        with:
-          url: "https://82f5e005ecdd.ngrok.io"
-          json: '{ "repository": "${{github.event.repository.full_name}}", "number": "${{github.event.number}}", "created_at": "${{github.event.pull_request.created_at}}", "updated_at": "${{github.event.pull_request.updated_at}}" }'
+        run: echo Hello
+#         with:
+#           url: "https://82f5e005ecdd.ngrok.io"
+#           json: '{ "repository": "${{github.event.repository.full_name}}", "number": "${{github.event.number}}", "created_at": "${{github.event.pull_request.created_at}}", "updated_at": "${{github.event.pull_request.updated_at}}" }'
         
       
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
 #      - uses: actions/checkout@v2
-      - run: echo Hello
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
