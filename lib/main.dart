@@ -17,4 +17,7 @@ void main() async {
   final errors = getIt<ErrorMapping>();
   errors.initErrors();
   runApp(MyApp());
+  // some comment
+  // more comment
+  // more comment again
 }
